@@ -319,3 +319,4 @@ ALTER TABLE Financeiro ADD FOREIGN KEY(ID) REFERENCES Login (ID)
 - JDK 11
 - IDE NODEJS 10.19.0 ou superior
 - Gerenciador de pacotes NPM
+# pdrMottaS
